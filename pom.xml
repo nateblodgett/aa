@@ -90,10 +90,4 @@
 			</plugins>
 	    </pluginManagement>
 	</build>
-	<repositories>
-		<repository>
-			<id>test-repo</id>
-			<url>file:///\\prdassivr051\mavenrepo\Test</url>
-		</repository>
-	</repositories>
 </project>
