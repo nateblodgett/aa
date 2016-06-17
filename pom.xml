@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.t_mobile.NewProject</groupId>
-	<artifactId>NewProject</artifactId>
+	<groupId>com.t_mobile.aa</groupId>
+	<artifactId>aa</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.0</version>
-	<name>NewProject Maven Webapp</name>
+	<name>aa Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<springframework.version>4.1.7.RELEASE</springframework.version>
@@ -71,7 +71,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>NewProject</finalName>
+		<finalName>aa</finalName>
 		<pluginManagement>
 			<plugins>
 				<plugin>
