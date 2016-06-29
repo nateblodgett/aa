@@ -4,7 +4,7 @@
 	<groupId>com.t_mobile.aa</groupId>
 	<artifactId>aa</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.0</version>
+	<version>${project.version}</version>
 	<name>aa Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
